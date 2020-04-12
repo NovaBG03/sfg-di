@@ -1,4 +1,4 @@
-package com.example.sfgdi.services;
+package com.example.services;
 
 public interface GreetingService {
     public String sayGreeting();
