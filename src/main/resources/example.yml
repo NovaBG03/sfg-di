@@ -1,0 +1,37 @@
+#comment Yey
+
+name: John
+
+names:
+  - Georgi
+  - Sasho
+  - Ivan
+
+pound_sign: "#"
+
+truth: yes
+
+another_truth: True
+
+more_truth: true
+
+book:
+  author: Mr. Sho
+  publisher: ShoBooks
+
+false: no #No, false, False
+
+string_val: "This is it's quote"
+
+colon_string: "my courses: one and two"
+
+include_new_lines: |
+  This is first
+  second
+  third
+  and so on...
+
+ignore_new_lines: ^
+  This is
+  one and
+  only line.
