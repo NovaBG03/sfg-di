@@ -3,3 +3,11 @@ com:
     username: jmsName
     password: jmsPass
     url: jmsUrl
+
+---
+spring:
+  profiles: BG
+
+com:
+  jms:
+    username: джмсИме
